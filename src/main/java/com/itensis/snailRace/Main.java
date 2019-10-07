@@ -6,6 +6,7 @@ import com.itensis.snailRace.service.*;
 public class Main{
 
     public static void main(String[] args) {
+//        test
         String gamblerFilePath = "C:/JavaGames/SnailRace/Players.txt";
         String snailNameFilePath = "C:/JavaGames/SnailRace/SnailNames.txt";
 
